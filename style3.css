@@ -1,0 +1,153 @@
+		body
+		{
+			background-image: url(IMG/bgd.png);
+		}
+		.col
+		{
+			border: 0px solid;
+		}
+		.kolom1
+		{
+			height: 200px;
+			
+		}
+		.kolom2
+		{
+			height: 500px;
+		}
+		.kolom3
+		{
+			height: 250px;
+		}
+		.kolom4
+		{
+			height: 50px;
+		}
+		.kolom5
+		{
+			height: 300px;
+			margin-bottom: 50px;
+		}
+		.kolom6
+		{
+			height: 200px;
+		}
+		.bgp
+		{
+			height: 125px;
+		}
+		.pro
+		{
+			height: 125px;
+		}
+		.latar
+		{	
+			background-color: #1282b2;
+			height: 420px;
+			padding: 20px;
+			width: 320px;
+			border-radius: 0px 0px 15px 15px;
+		}
+		.sentuh:hover
+		{
+			background-color: #1996cb;
+			width: 100%;
+			padding: 10px;
+			border-radius: 10px 10px 10px 10px;
+		}
+		.fav
+		{
+			margin-right: 40px;
+			
+		}
+		.judul
+		{
+			position: relative;
+			margin-top: -220px;
+			margin-left: 550px;
+		}
+		.jmlh
+		{
+			text-align: center;
+			margin-bottom: -20px;
+			color: #1282b2;
+			font-weight: bold;
+		}
+		.papan
+		{
+			font-size: 50px;
+		}
+		.bdc
+		{
+			border: 5px solid;
+			border-color: #1282b2;
+			border-radius: 20px 20px 20px 20px;
+		}
+		.h1
+		{
+			background-color: white;
+		}
+		.icon1
+		{
+			color: #1282b2;
+		}
+		.body1
+		{
+			font-weight: bold;
+			font-size: 30px;
+			text-align: center;
+			color: white;
+			background-color: #1282b2;
+			border-radius: 0px 0px 10px 10px;
+		}
+		.edit
+		{
+			background-color: blue;
+			width: 40px;
+			height: 40px;
+			padding: 6px;
+			border-radius: 50px;
+			color: #9999ff;
+		}
+		.hapus
+		{
+			background-color: red;
+			width: 40px;
+			height: 40px;
+			padding: 6px;
+			border-radius: 50px;
+			color: #ff9999;
+		
+		}
+		.medit
+		{
+			display: inline-block;
+		}
+		.mhapus
+		{
+			display: inline-block;
+		}
+		.modal-header
+		{
+			background-color: #1282b2;
+			color: white;
+		}
+		.modal-footer
+		{
+			background-color: #1282b2;
+			color: white;
+		}
+		.info
+		{
+			margin-top: 20px;
+			background-color: #1282b2;
+			text-align: center;
+			padding: 5px;
+			margin-bottom: 20px;
+			border-radius: 10px;
+		}
+		.tulis
+		{
+			margin-top: 10px;
+			color: white;
+		}
